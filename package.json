@@ -21,6 +21,7 @@
   "homepage": "https://github.com/RaM1cK/social_net#readme",
   "dependencies": {
     "ajax": "^0.0.4",
+    "express": "^5.1.0",
     "node": "^25.1.0"
   }
 }
