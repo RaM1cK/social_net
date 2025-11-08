@@ -1,0 +1,26 @@
+{
+  "name": "social_net",
+  "version": "1.0.0",
+  "description": "socal app for portfolio",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaM1cK/social_net.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "RaM1cK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaM1cK/social_net/issues"
+  },
+  "homepage": "https://github.com/RaM1cK/social_net#readme",
+  "dependencies": {
+    "ajax": "^0.0.4",
+    "node": "^25.1.0"
+  }
+}
